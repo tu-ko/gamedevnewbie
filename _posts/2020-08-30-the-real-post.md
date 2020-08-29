@@ -1,5 +1,6 @@
 ---
 title: the real post
+layout: post
 ---
 
 okay, i decided to start a blog 
