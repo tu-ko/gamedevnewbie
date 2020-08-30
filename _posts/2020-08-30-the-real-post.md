@@ -1,6 +1,6 @@
 ---
-title: the real post
 layout: post
+post_title: the real post
 ---
 
 okay, i decided to start a blog 
